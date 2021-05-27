@@ -1,0 +1,19 @@
+{
+   "name": "some_name",
+   "version": "1.0",
+   "description": "",
+   "main": "public/index.html",
+   "scripts": {
+      "build": "tsc",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "Me",
+   "license": "ISC",
+   "dependencies": {
+      "@types/react": "^17.0.4",
+      "@types/react-dom": "^17.0.3",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "typescript": "^4.2.4"
+   }
+}
