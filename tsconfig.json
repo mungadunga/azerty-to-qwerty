@@ -4,8 +4,8 @@
     "jsx": "react",
     "moduleResolution": "node",
     "target": "es6",
-    "lib": ["es2015", "dom", "dom.iterable"],
-    "outFile": "public/bundle.js"
+    "lib": ["es2017", "dom", "dom.iterable"],
+    "outFile": "script.js"
   },
   "include": ["src"]
 }

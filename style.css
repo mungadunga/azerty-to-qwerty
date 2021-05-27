@@ -1,0 +1,36 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+body {
+   overflow-x: hidden;
+}
+.App {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   padding: 1em;
+}
+.title {
+   margin: 1em;
+   text-align: center;
+}
+#input, #output { height: 10em; }
+@media (min-width: 1000px){
+   #input, #output { width: 50em; }
+}
+@media (max-width: 800px){
+   #input, #output { width: 25em; }
+}
+@media (max-width: 600px){
+   #input, #output { width: 20em; }
+}
+@media (max-width: 400px){
+   #input, #output { width: 15em; }
+}
+#switch {
+   margin: 1em;
+   height: 1.5em;
+   width: 5em;
+}
