@@ -5,7 +5,7 @@
     "moduleResolution": "node",
     "target": "es6",
     "lib": ["es2017", "dom", "dom.iterable"],
-    "outFile": "docs/script.js"
+    "outFile": "public/script.js"
   },
   "include": ["src"]
 }
