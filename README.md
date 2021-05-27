@@ -1,3 +1,3 @@
-# Template Project: React + TypeScript
+# QWERTY to AZERTY
 
-You're welcome.
+I made this whole thing to be able to type using the english keyboard on a french one. You can ignore this if you want.
