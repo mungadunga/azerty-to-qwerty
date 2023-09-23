@@ -1,4 +1,5 @@
 # QWERTY to AZERTY
 
-I made this whole thing to be able to type using the english keyboard on a french one. You can ignore this if you want.
-link: <https://mungadunga.github.io/azerty-to-qwerty/>
+I made this website because I don't like the azerty keyboards in my school. I'll keep using it until my fingers get used to typing on an azerty keyboard.
+
+Here's the link: https://mungadunga.github.io/azerty-to-qwerty/
